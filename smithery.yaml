@@ -1,0 +1,5 @@
+name: genpark-bfgs-quasi-newton-line-search-skill
+description: Broyden-Fletcher-Goldfarb-Shanno (BFGS) quasi-Newton optimization with backtracking Armijo line search
+version: 1.0.0
+runtime: python
+entrypoint: mcp_server.py
